@@ -1,9 +1,9 @@
 #Cluster Name
 cluster_name = "ats-production"
 # DigitalOcean API token
-do_token = "0e18ffee75651f2dfe4baf4073277da349f71e5163cb0b7a126ccbbc2be8bb6b"
+do_token = "token----change--me"
 # Admin password to access Rancher
-admin_password = "bat777bat"
+admin_password = "pwd---change--me"
 # Resources will be prefixed with this to avoid clashing names
 prefix = "myrancher"
 # rancher/rancher image tag to use
